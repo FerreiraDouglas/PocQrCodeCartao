@@ -1,25 +1,5 @@
 <!DOCTYPE html>
 
-<!--
-
-This is part of the Digital Business Card project.
-This is the visual, HTML+hCard part of it, for whom doesn't have Passbook software nor
-Address Book software.
-Other versions of digital business cards proposed by this project
-are Passbook and Address Book (VCF).
-
-This HTML file uses Bootstrap and JQuery. It contains no personal data.
-All data is located on an external file called data.json, loaded by the browser and
-rendered by the JavaScript and templates on the bottom of this HTML file.
-Content is rendered with Microformat's hCard tags (http://microformats.org/wiki/h-card).
-
-Avi Alkalay
-<avi at unix dot sh>
-2014-10-31
-Made in Brazil
-
--->
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -219,21 +199,7 @@ Made in Brazil
 			</div>
 
 			<div class="row gap"></div>
-	
-			<div id="buttons">
-				<div class="row">
-					<div class="col-xs-6 col-sm-3 column" id="address-book-badge">
-						<p class="text-center"><a href="vcard.vcf"><img src="resources/img/add-to-addressbook-badge.png" alt="Add to address book"/></a></p>
-					</div>
-					<div class="col-xs-6 col-sm-3 col-sm-offset-6 column" id="wallet-badge">
-						<p class="text-center"><a href="passbook.pkpass"><img src="resources/img/add-to-wallet-badge.png" alt="Add to Wallet"/></a></p>
-					</div>
-				</div>
-			</div>
 
-			<div class="row gap"></div>
-		</div>
-		
 		<div class="section row" id="data">
 			<div id="sections" class="row">
 				<!-- content will be rendered dynamically here on $(document).ready() -->
@@ -557,7 +523,7 @@ Made in Brazil
 				// Introduce the data as local variables using with(){}
 				"with(obj){p.push('" +
 	   
-				// Convert the template into pure JavaScript
+				// Convert the template into pure JavaScriptgit 
 				str
 				  .replace(/[\r\t\n]/g, " ")
 				  .split("<%").join("\t")
