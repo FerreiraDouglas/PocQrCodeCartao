@@ -1,0 +1,167 @@
+{
+  "formatVersion": 1,
+    
+  "teamIdentifier": "J8QHNGSU4D",
+  "passTypeIdentifier": "pass.net.alkalay.avipaladini.digicard",
+  "serialNumber": "avixⓐbr.ibm.com",
+
+  "description": "Digital Business Card for Avi Alkalay",
+  "organizationName": "Avi Alkalay @ IBM",
+  
+  "backgroundColor": "rgb(255,255,255)",
+  "foregroundColor": "rgb(31,112,193)",
+  "labelColor": "rgb(0,0,0)",
+
+  "logoText": "",
+  
+  "generic": {
+  	"headerFields": [
+  		{
+  			"key": "frontHigh",
+  			"label": "frontHigh_label",
+  			"value": "frontHigh_value"
+		}
+  	],
+    "primaryFields": [
+      {
+        "key": "frontTitle",
+        "value": "frontTitle_value",
+        "textAlignment": "PKTextAlignmentRight"
+      }
+    ],
+    
+    "secondaryFields": [
+      {
+        "key": "frontMainPhone",
+        "label": "frontMainPhone_label",
+        "value": "frontMainPhone_value"
+      }
+    ],
+    
+    "auxiliaryFields": [
+      {
+        "key": "frontSocial",
+        "label": "frontSocial_label",
+        "value": "frontSocial_value"
+      },
+	  {
+        "key": "frontEmail",
+        "label": "frontEmail_label",
+        "value": "frontEmail_value"
+      }
+    ],
+    
+    "backFields": [
+      {
+        "key": "backTitle",
+        "label": "backTitle_label",
+        "value": "backTitle_value",
+		"attributedValue": "backTitle_attributedValue"
+      },
+      {
+        "key": "backSocial",
+        "label": "backSocial_label",
+        "value": "frontSocial_value",
+        "attributedValue": "backSocial_attributedValue"
+      },
+      {
+        "key": "backURL",
+        "label": "backURL_label",
+        "value": "backURL_value",
+        "attributedValue": "backURL_attributedValue"
+      },
+      {
+        "key": "backMobile",
+        "label": "frontMainPhone_label",
+        "value": "backMobile_value"
+      },
+      {
+        "key": "backPhone",
+        "label": "backPhone_label",
+        "value": "backPhone_value"
+      },
+      {
+        "key": "backConference",
+        "label": "backConference_label",
+        "value": "backConference_value"
+      },
+      {
+        "key": "backSIP",
+        "label": "backSIP_label",
+        "value": "backSIP_value"
+      },
+      {
+        "key": "backBlog",
+        "label": "backBlog_label",
+        "value": "backBlog_value"
+      },
+      {
+        "key": "backAddress",
+        "label": "backAddress_label",
+        "value": "backAddress_value"
+      },
+      {
+        "key": "backBitcoin",
+        "label": "backBitcoin_label",
+        "value": "backBitcoin_value",
+        "attributedValue": "backBitcoin_attributedValue"
+      },
+      {
+        "key": "backMore",
+        "label": "backMore_label",
+        "value": "backMore_value",
+        "attributedValue": "backMore_attributedValue"
+      },      
+      {
+        "key": "backWarning",
+        "label": "backWarning_label",
+        "value": "backWarning_value"
+      },
+      {
+        "key": "backEmail",
+        "label": "frontEmail_label",
+        "value": "frontEmail_value"
+      },
+      {
+        "key": "backSignature",
+        "label": "backSignature_label",
+        "value": "backSignature_value"
+      },
+      {
+        "key": "backPoweredBy",
+        "label": "backPoweredBy_label",
+        "value": "backPoweredBy_value",
+		"attributedValue": "backPoweredBy_attributedValue"
+      }
+    ]
+  },
+  
+  
+  
+  
+  "locations": [
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "relevantText": "locationsRelevantText_value"
+    }
+  ],
+  
+  "beacons": [
+    {
+      "relevantText": "beaconsRelevantText_value",
+      "proximityUUID": "5a4bcfce-174e-4bac-a814-092e77f6b7e5",
+      "major": 1,
+      "minor": 1
+    } 
+  ],
+  
+  "relevantDate": "2016-12-06T12:00:00-02:00",
+  
+  "barcode": {
+    "format": "PKBarcodeFormatQR",
+    "message": "https://Avi.Alkalay.net/card/",
+    "messageEncoding": "UTF-8",
+    "altText": "Scan with iPhone Wallet app"
+  }
+}

@@ -1,0 +1,96 @@
+var obj =
+{
+	/*
+		Everywhere the emailchar appears on values, it will be substituted by "@". This
+		is to make more difficult the life of e-mail address crawlers.
+	*/
+	"emailchar": "ⓐ",
+	
+	"ganalytics": "UA-629709-5",
+	
+	"name": {
+		"first": "Douglas",
+		"last": "Ferreira",
+	},
+	"title": "Software Engineer, JAVA/PHP",
+	"company": "CAIXA DE ASSISTÊNCIA MUTUA AOS ENGENHEIROS- MUTUA",
+	"department": "GTI",
+
+	"columns": {
+		"1": ["phone", "publications", "other","mail"],
+		"2": ["social", "",            "",     "qrcode"]
+	},
+	
+	"section": {
+		"phone": [
+			{
+				"value": "+55 (61) 986069-9869",
+				"label": "mobile",
+				"microformatTag": "mobile",
+				"vcfTag": "mobile" 
+			},
+			{
+				"value": "douglasferreiraⓐgmail.com",
+				"label": "facetime"
+			},
+			{
+				"value": "douglasferreiraⓐgmail.com",
+				"label": "hangouts"
+			},
+			{
+				"value": "douglasferreira",
+				"label": "skype"
+			},
+		],
+
+		"mail": [
+			{
+				"value": "douglas.ferreiraⓐmutua.com.br",
+				"label": "Trabalho"
+			},
+			{
+				"value": "dfsdouglas.ferreiraⓐgmail.com",
+				"label": "Pessoal"
+			},
+		],
+		
+		"social": [
+			{
+				"value": "douglasferreria",
+				"label": "linkedin"
+			},
+			{
+				"value": "douglasferreira",
+				"label": "facebook"
+			},
+			{
+				"value": "https://github.com/FerreiraDouglas",
+				"label": "github"
+			}
+		],
+		
+		"publications": [
+			{
+				"value": "localhost:8080/",
+				"label": "blog",
+				"protocol": "https"
+			},
+			{
+				"value": "fb.com/douglas",
+				"label": "facebook",
+				"protocol": "https"
+			},
+			{
+				"value": "douglasferreira.net/bio",
+				"label": "minibio",
+				"protocol": "https"
+			}
+		],
+				
+		"qrcode": [
+			{
+				"label": "Digitalize com a câmera do iPhone, carteira ou qualquer leitor de QR"
+			}
+		]
+	}	
+};
