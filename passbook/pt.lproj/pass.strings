@@ -1,20 +1,20 @@
 "frontHigh_label" = "Meu nome é";
-"frontHigh_value" = "Avi Alkalay";
+"frontHigh_value" = "Douglas Ferreira da Silva";
 
-"frontMainPhone_label" = "iPhone";
-"frontMainPhone_value" = "+55 (11) 9.9659-9059";
+"frontMainPhone_label" = "Samsung";
+"frontMainPhone_value" = "+55 (61) 9.9686-9869";
 
-"frontTitle_value" = "Consultor Cloud e DevOps";
+"frontTitle_value" = "Software Enginer JAVA/PHP";
 
 "frontSocial_label" = "Redes Sociais";
-"frontSocial_value" = "@avibrazil";
+"frontSocial_value" = "@FerreiraDouglas";
 
 "frontEmail_label" = "🚫 E-mail (evite)";
-"frontEmail_value" = "avixⓐbr.ibm.com";
+"frontEmail_value" = "douglas.ferreira@mutua.com.br";
 
 "backTitle_label" = "☀️ O que eu faço";
-"backTitle_value" = "Consultor na IBM para soluções de agilidade (☁Cloud, ⚭TI Bimodal, ☯DevOps) que habilitam inovações na 3ª Plataforma para mobilidade, engajamento do usuário e analítica";
-"backTitle_attributedValue" = "Arquiteto na IBM para soluções de agilidade (☁Cloud, <a href=\"https://www.ibm.com/developerworks/community/blogs/5things/entry/5_things_to_know_about_two_speed_integration_by_ibm\">⚭TI Bimodal</a>, <a href=\"https://pt.wikipedia.org/wiki/DevOps\">☯DevOps</a>) que habilitam inovações na <a href=\"http://en.wikipedia.org/wiki/Third_platform\">3ª Plataforma</a> para mobilidade, engajamento do usuário e analítica";
+"backTitle_value" = "Desenvolvedor de Sistemas (☁JAVA, ⚭PHP) que habilitam inovações/sutentação para MUTUA;
+"backTitle_attributedValue" = "☁Cloud, <a href=\"https://www.ibm.com/developerworks/community/blogs/5things/entry/5_things_to_know_about_two_speed_integration_by_ibm\">⚭TI Bimodal</a>, <a href=\"https://pt.wikipedia.org/wiki/DevOps\">☯DevOps</a>) que habilitam inovações na <a href=\"http://en.wikipedia.org/wiki/Third_platform\">3ª Plataforma</a> para mobilidade, engajamento do usuário e analítica";
 
 "backURL_label" = "❤️ Soluções de Agilidade, Analítica e Mobilidade que eu adoro";
 "backURL_value" = "Bluemix (PaaS), SoftLayer (IaaS), IBM Cloud Orchestrator (powered by OpenStack), urban{code}, Watson, MobileFirst";
