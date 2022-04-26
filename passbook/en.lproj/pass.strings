@@ -45,7 +45,7 @@
 "backWarning_value" = "E-mail is the worst way of contacting me. Please prefer WhatsApp, iMessage, FaceTime, Facebook and Hangouts with my mobile or e-mail address.";
 
 "backMore_label" = "📇 My business card in VCF and other formats";
-"backMore_value" = "https://ferreiradouglas.github.io/PocQrCodeCartao/";
+"backMore_value" = "https://ferreiradouglas.github.io/PocQrCodeCartao/card/";
 "backMore_attributedValue" = "• <a href=\"https://ferreiradouglas.github.io/PocQrCodeCartao/vcard.vcf\">Add me to your phone contacts</a>\n• <a href=\"https://ferreiradouglas.github.io/PocQrCodeCartao/card/\">See my business card in other digital formats</a>";
 
 "backPoweredBy_label" = "Powered by";
