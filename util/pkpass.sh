@@ -1,20 +1,4 @@
-#!/bin/sh
 
-# Creates a signed Apple Passbook Ticket from a directory tree according to
-# documentation at https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/PassKit_PG/
-#
-# This script works on Mac and Linux. If Windows, you are on your own.
-#
-# OpenSSL commands were learned and improved from
-# https://github.com/kyleroche/iOS6-passbook-helper/blob/master/pkpass.sh
-#
-# Script by Avi Alkalay <avi at unix dot sh>
-# 2014-10-28
-# Brazil
-
-# Everywhere the $EMAILCHAR appears on passbook text files it will be substituted by "@".
-# I'm doing this because my personal data on these files will be pushed to GitHub as
-# an example into the Digital Business Card source code.
 EMAILCHAR="ⓐ"
 
 APPLEWWDRCA="`dirname $0`/AppleWWDRCA-2023.02.07.pem"

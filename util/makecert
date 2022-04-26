@@ -1,11 +1,3 @@
-#!/bin/sh
-
-# Heavily based on:
-#    http://www.passcreator.de/en/help/how-to-create-a-certificate-for-your-passbook-pass-on-windows/
-# and
-#    https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
-#
-# Turned into documented code by Avi Alkalay
 
 
 ID = "pass.net.alkalay.avipaladini.digicard"
