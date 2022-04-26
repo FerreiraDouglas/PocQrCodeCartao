@@ -12,10 +12,10 @@
     <!-- Be friendly with social media, specialy Facebook... -->
     <!-- These meta tags must be hard coded (no JQuery) because they are read by Facebook -->
 	<meta property="og:type"          content="profile" />
-    <meta property="og:title"         content="Digital Business Card for Avi Alkalay" />
-    <meta property="og:description"   content="Avi Alkalay • Full stack web & mobile solutions architect, Cloud & DevOps Advisor • IBM" />
-    <meta property="og:image"         content="https://Avi.Alkalay.net/card/walletcard.png" />
-    <link rel="image_src"             href="https://Avi.Alkalay.net/card/walletcard.png" />
+    <meta property="og:title"         content="Cartão de Visita Douglas Ferreira" />
+    <meta property="og:description"   content="Douglas Ferreira  • Full stack web JAVA/PHP• MUTUA" />
+    <meta property="og:image"         content=""	 />
+    <link rel="image_src"             href="" />
 
 	<link rel="profile" href="http://microformats.org/profile/hcard">
 	<link rel="software" href="https://github.com/FerreiraDouglas/PocQrCodeCartao">
@@ -177,30 +177,32 @@
   </head>
   <body>
   	<div class="container vcard">
-  		<div class="section row" id="header">
-			<div class="row"><br/></div>
-			<div class="row" id="nametitle">
-				<div class="col-xs-4 col-sm-3 column">
-					<img src="photo.jpg" alt="photo" style="width: 100%" class="img-rounded img-responsive photo"/>
-				</div>
-				<div class="col-xs-8 col-sm-9 column nametitle">
-					<h1 class="name n"><span class="given-name"><script>document.write(obj.name.first)</script></span> <span class="family-name"><script>document.write(obj.name.last)</script></span></h1>
-					<h2 class="role"><script>document.write(obj.title)</script></h2>
-					<h3 class="org"><span class="organization-unit"><script>document.write(obj.department)</script></span> @
-					<span class="organization-name"><script>document.write(obj.company)</script></span></h3>
-				</div>
-				<div id="buttons">
-					<div class="row">
-						<div class="col-xs-6 col-sm-3 column" id="address-book-badge">
-							<p class="text-center"><a href="vcard.vcf"><img src="resources/img/add-to-addressbook-badge.png" alt="Add to address book"/></a></p>
-						</div>
-				 	</div>
-				</div>
-	
-				<div class="row gap"></div>
-			</div>
+		<div class="section row" id="header">
+		  <div class="row"><br/></div>
+		  <div class="row" id="nametitle">
+			  <div class="col-xs-4 col-sm-3 column">
+				  <img src="photo.jpg" alt="photo" style="width: 100%" class="img-rounded img-responsive photo"/>
+			  </div>
+			  <div class="col-xs-8 col-sm-9 column nametitle">
+				  <h1 class="name n"><span class="given-name"><script>document.write(obj.name.first)</script></span> <span class="family-name"><script>document.write(obj.name.last)</script></span></h1>
+				  <h2 class="role"><script>document.write(obj.title)</script></h2>
+				  <h3 class="org"><span class="organization-unit"><script>document.write(obj.department)</script></span> @
+				  <span class="organization-name"><script>document.write(obj.company)</script></span></h3>
+			  </div>
+		  </div>
 
-			</div>
+		  <div class="row gap"></div>
+  
+		  <div id="buttons">
+			  <div class="row">
+				  <div class="col-xs-6 col-sm-3 column" id="address-book-badge">
+					  <p class="text-center"><a href="vcard.vcf"><img src="resources/img/add-to-addressbook-badge.png" alt="Add to address book"/></a></p>
+				  </div>
+			  </div>
+		  </div>
+
+		  <div class="row gap"></div>
+	  </div>
 		<div class="section row" id="data">
 			<div id="sections" class="row">
 				<!-- content will be rendered dynamically here on $(document).ready() -->
