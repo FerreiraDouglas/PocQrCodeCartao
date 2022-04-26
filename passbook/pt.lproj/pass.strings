@@ -45,8 +45,8 @@
 "backWarning_value" = "E-mail é a pior forma de me contactar. Por favor prefira WhatsApp, iMessage, FaceTime, Facebook e Hangouts com meu telefone ou endereço de e-mail.";
 
 "backMore_label" = "📇 Meu cartão de visita em VCF e outros formatos";
-"backMore_value" = "https://Avi.Alkalay.net/card/";
-"backMore_attributedValue" = "• <a href=\"https://Avi.Alkalay.net/card/vcard.vcf\">Adicione-me aos contatos</a>\n• <a href=\"https://Avi.Alkalay.net/card/\">Veja meu cartão de visita em outros formatos</a>";
+"backMore_value" = "https://ferreiradouglas.github.io/PocQrCodeCartao/";
+"backMore_attributedValue" = "• <a href=\"https://ferreiradouglas.github.io/PocQrCodeCartao/vcard.vcf\">Adicione-me aos contatos</a>\n• <a href=\"https://ferreiradouglas.github.io/PocQrCodeCartao/\">Veja meu cartão de visita em outros formatos</a>";
 
 "backPoweredBy_label" = "Powered by";
 "backPoweredBy_value" = "O projeto Digital Business Card project no GitHub: https://github.com/avibrazil/digital-business-card";
