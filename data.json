@@ -9,11 +9,11 @@ var obj =
 	"ganalytics": "UA-629709-5",
 	
 	"name": {
-		"first": "Douglas",
-		"last": "Ferreira",
+		"first": "Waldir",
+		"last": "Costa",
 	},
-	"title": "Software Engineer, JAVA/PHP",
-	"company": "CAIXA DE ASSISTÊNCIA MUTUA AOS ENGENHEIROS- MUTUA",
+	"title": "DIRETOR DE TECNOLOGIA, GEÓLOGO",
+	"company": "CAIXA DE ASSISTÊNCIA MUTUA AOS ENGENHEIROS - MÚTUA",
 	"department": "GTI",
 
 	"columns": {
@@ -30,37 +30,37 @@ var obj =
 				"vcfTag": "mobile" 
 			},
 			{
-				"value": "douglasferreiraⓐgmail.com",
+				"value": "waldircostaⓐgmail.com",
 				"label": "facetime"
 			},
 			{
-				"value": "douglasferreiraⓐgmail.com",
+				"value": "waldircostaⓐgmail.com",
 				"label": "hangouts"
 			},
 			{
-				"value": "douglasferreira",
+				"value": "waldircosta",
 				"label": "skype"
 			},
 		],
 
 		"mail": [
 			{
-				"value": "douglas.ferreiraⓐmutua.com.br",
+				"value": "waldir.costaⓐmutua.com.br",
 				"label": "Trabalho"
 			},
 			{
-				"value": "dfsdouglas.ferreiraⓐgmail.com",
+				"value": "waldir.costaⓐgmail.com",
 				"label": "Pessoal"
 			},
 		],
 		
 		"social": [
 			{
-				"value": "douglasferreria",
+				"value": "waldircosta",
 				"label": "linkedin"
 			},
 			{
-				"value": "douglasferreira",
+				"value": "waldircosta",
 				"label": "facebook"
 			},
 			{
@@ -76,12 +76,12 @@ var obj =
 				"protocol": "https"
 			},
 			{
-				"value": "fb.com/douglas",
+				"value": "fb.com/waldir",
 				"label": "facebook",
 				"protocol": "https"
 			},
 			{
-				"value": "douglasferreira.net/bio",
+				"value": "waldir.net/bio",
 				"label": "minibio",
 				"protocol": "https"
 			}
